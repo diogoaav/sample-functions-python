@@ -1,0 +1,27 @@
+[
+  {
+    "apihost": "https://faas-tor1-70ca848e.doserverless.co",
+    "namespace": "fn-7a7cc879-3c60-40a7-b638-37fadded2173",
+    "packageVersions": {
+      "python": {
+        "version": "0.0.2",
+        "digest": "39b66de72104ab2d638dee9ca57bb696b30faa6f2d840e697973aa357aba2ef2"
+      },
+      "sample": {
+        "version": "0.0.6",
+        "digest": "e4a2720e87c619a56019f373ead5690d39813e0a319af5e91ec0aa0fc3604409"
+      }
+    },
+    "actionVersions": {
+      "python/bash": {
+        "version": "0.0.1",
+        "digest": "7253c5834fb890ac2a529abc5683e4d233d3c8d3e2847a733923d959d802b4b8"
+      },
+      "sample/hello": {
+        "version": "0.0.7",
+        "digest": "7253c5834fb890ac2a529abc5683e4d233d3c8d3e2847a733923d959d802b4b8"
+      }
+    },
+    "webHashes": {}
+  }
+]

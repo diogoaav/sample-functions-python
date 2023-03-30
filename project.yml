@@ -1,5 +1,5 @@
 packages:
-  - name: sample
+  - name: python
     actions:
-      - name: hello
+      - name: bash
         runtime: 'python:default'
